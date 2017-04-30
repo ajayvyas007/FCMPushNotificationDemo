@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "253232574246",
+    "firebase_url": "https://fcmpushnotification-ea376.firebaseio.com",
+    "project_id": "fcmpushnotification-ea376",
+    "storage_bucket": "fcmpushnotification-ea376.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253232574246:android:c125f6681f66c8a8",
+        "android_client_info": {
+          "package_name": "com.ajay.fcmpushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253232574246-an46iamtbk3ipelcs6p1s5a9mrdfm2dc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ajay.fcmpushnotification",
+            "certificate_hash": "ab02c4cd0a3b0561336e0029c07b3f6940270579"
+          }
+        },
+        {
+          "client_id": "253232574246-tjs1iq3c8338f4m23s60tkbinnp9ars1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxA_KZislmDuiXq24kiix6u5zHMVJTe3o"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253232574246-tjs1iq3c8338f4m23s60tkbinnp9ars1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
